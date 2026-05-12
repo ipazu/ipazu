@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img alt="Security research" src="https://img.shields.io/badge/security-research-111111?style=flat-square">
-  <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="CVE-2026-24481" src="https://img.shields.io/badge/CVE--2026--24481-high-b91c1c?style=flat-square">
+  <a href="https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-96pc-27rx-pr36">GHSA-96pc-27rx-pr36</a>
+  ·
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-24481">CVE-2026-24481</a>
 </p>
 
 ## Advisory
