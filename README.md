@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-96pc-27rx-pr36">GHSA-96pc-27rx-pr36</a>
-  ·
-  <a href="https://www.cve.org/CVERecord?id=CVE-2026-24481">CVE-2026-24481</a>
+  <a href="https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-96pc-27rx-pr36">
+    <img src="./assets/badges.svg" alt="Dev, vuln researcher, CVE-2026-24481">
+  </a>
 </p>
 
 ## Advisory
