@@ -5,12 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-96pc-27rx-pr36">
-    <img src="./assets/badges.svg" alt="Dev, vuln researcher, CVE-2026-24481">
-  </a>
+  <img src="./assets/badges.svg" alt="Dev and vuln researcher">
 </p>
 
 ## Advisory
+
+<a href="https://www.cve.org/CVERecord?id=CVE-2026-24481">
+  <img src="./assets/advisory.svg" alt="CVE-2026-24481 high severity">
+</a>
 
 [GHSA-96pc-27rx-pr36](https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-96pc-27rx-pr36) / [CVE-2026-24481](https://www.cve.org/CVERecord?id=CVE-2026-24481)
 
