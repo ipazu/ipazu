@@ -1,12 +1,5 @@
 <h1 align="center">Alex Laboirie</h1>
 
-<p align="center">
-  Dev and vuln researcher.
-</p>
-
-<p align="center">
-  <img src="./assets/badges.svg" alt="Dev and vuln researcher">
-</p>
 
 ## Advisory
 
