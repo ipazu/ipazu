@@ -1,16 +1,10 @@
-<h1 align="center">Alex Laboirie</h1>
+# Alex Laboirie
 
+Software engineer & vulnerability researcher.
 
-## Advisory
+- **Google Chrome** · [CVE-2026-95318](https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0856730748.html)
+- **Firedancer** · [Consensus divergence](https://pazusec.com/writing/firedancer-consensus-divergence)
+- **ImageMagick** · [CVE-2026-24481](https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-96pc-27rx-pr36)
+- **Jenkins** · [CVE-2026-84662](https://www.jenkins.io/security/advisory/2026-09-02/#SECURITY-3678)
 
-<a href="https://www.cve.org/CVERecord?id=CVE-2026-24481">
-  <img src="./assets/advisory.svg" alt="CVE-2026-24481 high severity">
-</a>
-
-[GHSA-96pc-27rx-pr36](https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-96pc-27rx-pr36) / [CVE-2026-24481](https://www.cve.org/CVERecord?id=CVE-2026-24481)
-
-High severity heap information disclosure in ImageMagick PSD ZIP decompression.
-
-- Published: `2026-02-23`
-- Weakness: `CWE-125`
-- Fixed in ImageMagick `7.1.2-15` and `6.9.13-40`
+[Write-ups ↗](https://pazusec.com) · [Contact](mailto:alex.laboirie@gmail.com)
